@@ -9,8 +9,8 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-  <p>Aoyama Gakuin University, B721</p>
-  <p>5-10-1 Fuchinobe, Chuo-ku, Sagamihara, Kanagawa 252-5258, Japan</p>
+   <p>Aoyama Gakuin University, B721</p>
+   <p>5-10-1 Fuchinobe, Chuo-ku, Sagamihara, Kanagawa 252-5258, Japan</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
