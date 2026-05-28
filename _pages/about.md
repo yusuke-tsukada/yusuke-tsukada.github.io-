@@ -29,6 +29,4 @@ latest_posts:
 I am an Assistant Professor in the School of Global Studies and Collaboration at Aoyama Gakuin University. I received my Ph.D. in Sociology from the 
 University of Hawaiʻi at Mānoa (2025). My research focuses on social stratification, health inequality, and mental health, with a particular interest in how precarious work and job insecurity affect the psychological well-being of young adults in Japan. I use quantitative sociological methods,　including large-scale survey data, to examine these issues.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
